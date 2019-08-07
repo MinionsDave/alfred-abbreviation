@@ -1,5 +1,8 @@
 const alfy = require('alfy');
 const { load } = require('cheerio');
+const alfredNotifier = require('alfred-notifier');
+
+alfredNotifier();
 
 function getPointEmoji(point) {
 	return {

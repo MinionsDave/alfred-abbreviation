@@ -104,6 +104,19 @@ alfred-notifier@^0.2.0:
     read-pkg "^2.0.0"
     semver "^5.3.0"
 
+alfred-notifier@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/alfred-notifier/-/alfred-notifier-0.2.3.tgz#678816641fff03b0fe0a03f14630a778c057b399"
+  integrity sha512-RB03gRcGKPxiby+1zijbUQslRNfX1uhFCtsudmGd/gaVnTShByAfAKIL+uKNU6VngXjpqCQmeAyUIxdWbsZaAw==
+  dependencies:
+    cache-conf "^0.5.0"
+    execa "^0.8.0"
+    latest-version "^3.1.0"
+    pify "^3.0.0"
+    plist "^2.0.1"
+    read-pkg "^2.0.0"
+    semver "^5.3.0"
+
 alfy-test@^0.3.0:
   version "0.3.0"
   resolved "https://registry.npm.taobao.org/alfy-test/download/alfy-test-0.3.0.tgz#978752847317279d2dd36edfb989932c0fd7f278"
