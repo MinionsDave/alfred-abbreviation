@@ -1,0 +1,42 @@
+{
+  "name": "alfred-abbreviation",
+  "version": "1.0.0",
+  "description": "Alfred 3 workflow to query word abbreviation from abbreviations.com",
+  "license": "MIT",
+  "repository": "MinionsDave/alfred-abbreviation",
+  "author": {
+    "name": "MinionsDave",
+    "email": "wudengguang@gmail.com",
+    "url": "https://github.com/MinionsDave"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfred-workflow",
+    "alfy",
+    "abbreviation",
+    "abbreviations"
+  ],
+  "dependencies": {
+    "alfy": "^0.6.0",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {
+    "alfy-test": "^0.3.0",
+    "ava": "^0.18.0",
+    "xo": "^0.17.0"
+  }
+}
