@@ -1,6 +1,6 @@
 {
   "name": "alfred-abbreviation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Alfred 3 workflow to query word abbreviation from abbreviations.com",
   "license": "MIT",
   "repository": "MinionsDave/alfred-abbreviation",
