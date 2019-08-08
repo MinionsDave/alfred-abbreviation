@@ -1,4 +1,4 @@
-# alfred-abbreviation [![Build Status](https://travis-ci.org/MinionsDave/alfred-abbreviation.svg?branch=master)](https://travis-ci.org/MinionsDave/alfred-abbreviation)
+# alfred-abbreviation
 
 > Alfred 3 workflow to query word abbreviation from abbreviations.com
 
